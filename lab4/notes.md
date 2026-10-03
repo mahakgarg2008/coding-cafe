@@ -48,5 +48,25 @@ Git prints a summary showing the commit hash, the branch name, and the list of c
 
 The first seven characters are a short SHA-1 commit hash. They act as a unique fingerprint to identify and reference that specific snapshot in history.
 
+\## Question 9
+
+The four steps of the Git loop are:
+
+1\. Make changes or edits to files in the Working Directory.
+
+2\. Check changes using 'git status'.
+
+3\. Stage the files using 'git add'.
+
+4\. Commit the changes to the repository history using 'git commit'.
+
+
+
+\## Question 10
+
+README.md is given a special name because GitHub automatically searches for it and renders its content directly onto the repository's front landing page as formatted text. It acts as the primary "shop window" and user manual for anyone visiting the project.
+
+
+
 
 
