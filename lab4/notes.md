@@ -66,6 +66,22 @@ The four steps of the Git loop are:
 
 README.md is given a special name because GitHub automatically searches for it and renders its content directly onto the repository's front landing page as formatted text. It acts as the primary "shop window" and user manual for anyone visiting the project.
 
+\## Question 11
+
+The gh auth login command securely authenticated the GitHub CLI with your account and stored a credential token on your computer. Git automatically uses this token for future operations, which removes the need to type your password every time you push.
+
+\## Question 12
+
+The contents of the README.md file are showing on the front page, rendered as formatted text. GitHub automatically looks for a file with this specific name to display as the main introduction or "shop window" for the repository.
+
+\## Question 13
+
+No, pushing did not change the local history in any way. Pushing simply copies your existing local commits and uploads them to the remote repository on GitHub so the two are synchronized.
+
+\## Question 14
+
+If a repository does not exist on GitHub, it only lives locally on your computer and no one else can see it. A private repository exists online as a cloud backup, but access is strictly locked down to you and the specific collaborators (like the TAs) that you explicitly invite.
+
 
 
 
